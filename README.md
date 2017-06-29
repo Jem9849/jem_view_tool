@@ -23,6 +23,7 @@ Or install it yourself as:
 ```ruby
 JemViewTool::Renderer.copyright 'Jeremy Saysanasy', 'All rights reserved'
 ```
+> Just change the name.
 
 ## Development
 
